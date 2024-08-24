@@ -1,0 +1,25 @@
+														Ownership License
+
+														Copyright (c) 08/2024
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software with the following restrictions:
+
+Sprites and Assets: The sprites, images, and any other visual assets included with the Software (the "Assets") may be used for testing purposes only. Any use of these Assets for commercial purposes, 
+   
+modification, or redistribution is strictly prohibited.
+
+Code Modification: Permission to modify the Software’s code is granted only with the explicit written permission of the original author of the Software. Users must contact the original author to obtain permission before making any changes to the
+
+codebase.Learning and Derivative Works: Users are permitted to study and learn from the Software's code for the purpose of creating new, independent works. Any new work derived from the knowledge gained must include an attribution to the original 
+
+author of the Software in all copies or substantial portions of the new work.
+
+User Contributions and Commercial Rights: Users may purchase the Software. Once purchased, they obtain the right to modify, sell, and create derivative works based on their version of the Software. Any derivative work created must include credit to
+
+the original author of the Software. Additionally, 10% of any earnings from the derivative work must be paid to the original creator of the Software.
+
+													THE SOFTWARE IS PROVIDED "AS IS",
+
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
